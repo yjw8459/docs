@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "study-test"
+  name: "study-docs"
   text: "study note "
   tagline: My great project tagline
   actions:
